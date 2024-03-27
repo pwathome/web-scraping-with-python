@@ -12,8 +12,7 @@
     ```linux
     python main.py    
     ```
-6. Install [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#installing-beautiful-soup).
+6. Install [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#installing-beautiful-soup) and [requests](https://pypi.org/project/requests/).
     ```linux
-    pip install beautifulsoup4
+    pip install beautifulsoup4 requests
     ```
- 
