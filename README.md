@@ -3,7 +3,7 @@
 1. Make sure [Python](https://www.python.org/) is installed on your system.
 2. Create folder web-scraping-with-python
 3. Open with favorite text editor
-4. create `main.py` file
+4. Create `main.py` file
 5. Create first Hello World program by adding the following code to the file.
     ```python
     print("Hello World!")
