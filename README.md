@@ -16,3 +16,16 @@
     ```linux
     pip install beautifulsoup4 requests
     ```
+
+## Installing on Mac
+
+In a Python 3 environment on a Mac, you may run into errors when trying to import beautifulsoup4 and requests.  Try this in your shell:
+
+```bash
+# from (my-env) *[main][/usr/local/projects/python/web-scraping-with-python]$
+python3 -m venv my-env
+source my-env/bin/activate
+pip install beautifulsoup4 requests
+python3 main.py
+```
+
